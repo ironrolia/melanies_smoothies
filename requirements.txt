@@ -1,5 +1,8 @@
-Code
-Indexes
-Statistics
-Data Model
-Database Infrastructure Design
+# requirments.txt
+snowflake-snowpark-python
+streamlit
+#Code
+#Indexes
+#Statistics
+#Data Model
+#Database Infrastructure Design
