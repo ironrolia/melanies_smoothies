@@ -1,6 +1,7 @@
 # requirments.txt
 snowflake-snowpark-python
 streamlit
+requests
 #Code
 #Indexes
 #Statistics
